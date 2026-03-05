@@ -1,0 +1,25 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Database
+backend/newz.db
+keys.txt
+keys
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
